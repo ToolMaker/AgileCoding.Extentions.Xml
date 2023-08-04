@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31019.35
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgileCoding.Extentions.Xml", "AgileCoding.Extentions.Xml\AgileCoding.Extentions.Xml.csproj", "{06208CD7-B21A-4E9C-A792-F54EEF55E82D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgileCoding.Extentions.Xml", "AgileCoding.Extentions.Xml\AgileCoding.Extentions.Xml.csproj", "{A5A293F6-3A59-47E6-B789-650ED998EF24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppTestXmlValidation", "ConsoleAppTestXmlValidation\ConsoleAppTestXmlValidation.csproj", "{435ACD5A-4246-4517-B763-D9280B88EF1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{06208CD7-B21A-4E9C-A792-F54EEF55E82D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{06208CD7-B21A-4E9C-A792-F54EEF55E82D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{06208CD7-B21A-4E9C-A792-F54EEF55E82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{06208CD7-B21A-4E9C-A792-F54EEF55E82D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5A293F6-3A59-47E6-B789-650ED998EF24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A293F6-3A59-47E6-B789-650ED998EF24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A293F6-3A59-47E6-B789-650ED998EF24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A293F6-3A59-47E6-B789-650ED998EF24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{435ACD5A-4246-4517-B763-D9280B88EF1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{435ACD5A-4246-4517-B763-D9280B88EF1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{435ACD5A-4246-4517-B763-D9280B88EF1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{435ACD5A-4246-4517-B763-D9280B88EF1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
